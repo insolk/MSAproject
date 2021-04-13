@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from .views import ItemLV
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', ItemLV.as_view(), name='home'),
 ]
