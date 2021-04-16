@@ -16,3 +16,5 @@
 - 박신형 orpsh1941@gmail.com
 - 유민지 youminji62@gmail.com
 - 정재우 jaewoo.jeongg@gmail.com
+
+## 아이템 상세
