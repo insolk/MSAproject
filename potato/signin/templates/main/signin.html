@@ -1,0 +1,18 @@
+{% block contents %}
+<h1>Login!</h1>
+
+<!--form태그 POST방식으로 쓸꺼면 보안을 위해서 csrf_token을 써주는게 좋다-->
+<!--회원가입과 같은 정보를 처리할때는 POST 방식으로 처리해줘야한다.-->
+
+<form method="POST" action="{% url 'check' %}">
+    {% csrf_token %}
+    <!--보안을 위해서 써주는 난수 발생기, csrf 방해를 방어해주는 것.-->
+    <h1>Email</h1>
+    <br>
+    <input name="email" type="text" value="">
+    <h1>Password</h1>
+    <br>
+    <input name="password" type="text" value="">
+    <input class="btn btn-primary" type="submit" value="Login">
+</form>
+{% endblock %}
