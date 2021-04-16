@@ -1,0 +1,19 @@
+[16/Apr/2021 10:30:15] INFO [potatomarket.views:28] form_valid called
+[16/Apr/2021 10:30:15] DEBUG [potatomarket.views:30] admin
+[16/Apr/2021 10:32:03] DEBUG [potatomarket.views:29] <WSGIRequest: POST '/item/new/'>
+[16/Apr/2021 10:33:45] DEBUG [potatomarket.views:29] <QueryDict: {}>
+[16/Apr/2021 10:35:21] DEBUG [potatomarket.views:29] <QueryDict: {'csrfmiddlewaretoken': ['slB22Fav2AF4IL5jUIxr7uYnOBSYZiWBXjohSZ8LXv2CzVDqCxalZLZh9RvQ5a16'], 'item_name': ['123'], 'item_price': ['123'], 'item_detail': ['123']}>
+[16/Apr/2021 10:39:49] DEBUG [potatomarket.views:29] 'item_name': 斡喰獣, 'item_price': 123, 'item_detail': 照括
+[16/Apr/2021 10:53:03] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': 123
+[16/Apr/2021 10:53:27] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': けけけけけ
+[16/Apr/2021 10:54:59] DEBUG [potatomarket.views:31] 'item_name': 123, 'item_price': 123, 'item_detail': けけけけけけ
+[16/Apr/2021 10:55:58] DEBUG [potatomarket.views:31] 'item_name': 123, 'item_price': 123, 'item_detail': けけけけけけ
+[16/Apr/2021 11:08:34] DEBUG [potatomarket.views:29] 'item_name': けけけ, 'item_price': 123, 'item_detail': けいしけ
+[16/Apr/2021 11:18:15] DEBUG [potatomarket.views:29] 'item_name': けけけ, 'item_price': 123, 'item_detail': けいし
+[16/Apr/2021 11:18:20] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': 22
+[16/Apr/2021 11:18:23] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': 222
+[16/Apr/2021 11:18:27] DEBUG [potatomarket.views:29] 'item_name': 31231, 'item_price': 12312, 'item_detail': 22
+[16/Apr/2021 11:18:37] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 122, 'item_detail': 123
+[16/Apr/2021 11:18:42] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': 123
+[16/Apr/2021 11:18:47] DEBUG [potatomarket.views:29] 'item_name': 123, 'item_price': 123, 'item_detail': 123
+[16/Apr/2021 11:18:51] DEBUG [potatomarket.views:29] 'item_name': 11231, 'item_price': 21212, 'item_detail': 212112

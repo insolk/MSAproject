@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'potatomarket'
 ]
 
 MIDDLEWARE = [
@@ -62,6 +63,60 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+LOGGING = {
+    'version': 1,
+    # 기존의 로깅 설정을 비활성화 할 것인가?
+    'disable_existing_loggers': False,
+
+    # 포맷터
+    # 로그 레코드는 최종적으로 텍스트로 표현됨
+    # 이 텍스트의 포맷 형식 정의
+    # 여러 포맷 정의 가능
+    'formatters': {
+        'format1': {
+            'format': '[%(asctime)s] %(levelname)s [%(name)s:%(lineno)s] %(message)s',
+            'datefmt': '%d/%b/%Y %H:%M:%S'
+        },
+        'format2': {
+            'format': '%(levelname)s %(message)s'
+        },
+    },
+
+    # 핸들러
+    # 로그 레코드로 무슨 작업을 할 것인지 정의
+    # 여러 핸들러 정의 가능
+    'handlers': {
+        # 로그 파일을 만들어 텍스트로 로그레코드 저장
+        'file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(BASE_DIR, 'logs/logfile'),
+            'formatter': 'format1',
+        },
+        # 콘솔(터미널)에 출력
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+            'formatter': 'format2',
+        }
+    },
+
+    # 로거
+    # 로그 레코드 저장소
+    # 로거를 이름별로 정의
+    'loggers': {
+        'potatomarket': {
+            'handlers': ['file'],
+            'level': 'DEBUG',
+        },
+        'books': {
+            'handlers': ['console'],
+            'level': 'DEBUG',
+        }
+    },
+
+}
 
 ROOT_URLCONF = 'potatomarket.urls'
 
@@ -88,8 +143,12 @@ WSGI_APPLICATION = 'potatomarket.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'mydb', # 데이터베이스 이름
+        'USER': 'root', # 접속 사용자 이름
+        'PASSWORD': '', # 접속 비밀번호
+        'HOST': 'localhost',
+        'PORT': '13306', # 기본 포트
     }
 }
 
@@ -114,9 +173,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/3.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ko-kr'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
@@ -127,4 +186,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
+
 STATIC_URL = '/static/'
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
+DEFAULT_CHARSET = 'utf-8'
