@@ -24,6 +24,7 @@ class Item(models.Model):
 
     class Meta:
         db_table = 'ITEM'
+        ordering = ['item_id']
 
     def __str__(self):
         return self.item_name
