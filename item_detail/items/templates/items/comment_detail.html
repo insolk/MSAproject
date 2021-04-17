@@ -1,66 +1,59 @@
 {% extends "items/base.html" %}
 {% block content %}
-{% load static %}
+    {% load static %}
 
-  <!-- Page Content -->
-  <div class="container">
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            {% include 'items/category.html' %}
+            <div class="col-lg-9">
+                <div class="card card-outline-secondary my-4">
+                    <div class="card-header">
+                        댓글 수정
+                    </div>
+                    <!-- 기존 댓글 가져와서 보여줌 => 수정 -->
+                    <div class="card-body">
+                        <form action="{% url 'comment_update' product_id=product_id comment_id=comment.comment_id %}" method="post">
+                            {% csrf_token %}
+                            <label for="comment_content"></label>
+                            <br>
+                            <textarea
+                                name="comment_content"
+                                id="comment_content"
+                                class="form-control"
+                                cols="60"
+                                rows="5">{{ comment.comment_content|default_if_none:'' }}</textarea>
+                            <div style="text-align: right">
+                                <br>
+                                <button type="submit" class="btn btn-success">입력</button>
+                            </div>
+                            <hr>
+                        </form>
 
-    <div class="row">
-
-      <div class="col-lg-3">
-        <h1 class="my-4">Shop Name</h1>
-        <div class="list-group">
-          <a href="#" class="list-group-item active">Category 1</a>
-          <a href="#" class="list-group-item">Category 2</a>
-          <a href="#" class="list-group-item">Category 3</a>
-        </div>
-      </div>
-      <div class="col-lg-9">
-        <div class="card card-outline-secondary my-4">
-          <div class="card-header">
-            <!-- Product Reviews !-->
-            댓글
-          </div>
-          <div class="card-body">
-            <p> 댓글 내용 {{ comment.comment_content}} </p>
-            <div style="text-align: right">
-            <form method="post">
-            {% csrf_token %}
-                <button type="submit" name="UD" value="update" class="btn btn-warning"> 수정 </button>
-                <button type="submit" name="UD" value="delete" class="btn btn-danger"> 삭제 </button>
-            </form>
+                        <!-- 댓글 내용 확인하는 창 -->
+                        <p>
+                            {{ comment.comment_content }}
+                        </p>
+                        <br>
+                        <small class="text-muted">
+                            작성일:
+                            {{ comment.create_date }}
+                        </small>
+                        <br>
+                        {% if comment.modify_date != NULL %}
+                            <small class="text-muted">
+                                수정일:
+                                {{ comment.modify_date }}
+                            </small>
+                            {% endif%}
+                            <hr>
+                        </div>
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- /.col-lg-9 -->
             </div>
-            <br>
-            <small class="text-muted">
-            작성일: {{ comment.create_date }}
-            </small>
-            <br>
-             <small class="text-muted">
-             수정일: {{ comment.modify_date }}
-            </small>
-            <hr>
-
-          
-        
-          {% comment %} <a href="#" class="btn btn-success">Leave a Review</a>
-
-          <button type="submit" class="btn btn-success">댓글 작성
-          </button> {% endcomment %}
-  
-          
-
-            
-          </div>
-          
         </div>
-        <!-- /.card -->
+        <!-- /.container -->
 
-      </div>
-      <!-- /.col-lg-9 -->
-
-    </div>
-  </div>
-  <!-- /.container -->
-
-
-{% endblock %}
+    {% endblock %}
