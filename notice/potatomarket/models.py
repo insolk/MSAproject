@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from django.db import models
 
 class Comment(models.Model):
@@ -15,13 +17,13 @@ class Item(models.Model):
     item_no = models.AutoField(primary_key=True)
     user_no = models.IntegerField()
     item_title = models.CharField(max_length=100)
-    item_views = models.IntegerField()
+    item_views = models.IntegerField(default=0)
     item_price = models.IntegerField()
     item_detail = models.TextField()
     item_img = models.CharField(max_length=100)
-    item_status = models.CharField(max_length=10)
+    item_status = models.CharField(max_length=10, default="판매중")
     item_soldtime = models.DateTimeField(blank=True, null=True)
-    item_date = models.DateTimeField(blank=True, null=True)
+    item_date = models.DateTimeField(blank=True, null=True, default=datetime.now)
 
     class Meta:
         db_table = 'item'

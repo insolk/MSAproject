@@ -1,24 +1,44 @@
+from datetime import datetime
+
 from django.db import models
 
 # Create your models here.
 
+# class Item(models.Model):
+#     item_id = models.AutoField(primary_key=True)
+#     item_name = models.CharField(max_length=70)
+#     item_views = models.IntegerField(blank=True, null=True)
+#     item_location = models.CharField(max_length=70)
+#     item_sellorname = models.CharField(db_column='item_sellorName', max_length=70)  # Field name made lowercase.
+#     item_sellorid = models.CharField(db_column='item_sellorId', max_length=70, blank=True, null=True)  # Field name made lowercase.
+#     item_date = models.DateTimeField(blank=True, null=True)
+#     item_price = models.IntegerField(blank=True, null=True)
+#     item_detail = models.CharField(max_length=300, blank=True, null=True)
+#     item_img = models.CharField(max_length=1, blank=True, null=True)
+#     item_status = models.CharField(max_length=20, blank=True, null=True)
+#     item_dealtime = models.DateTimeField(blank=True, null=True)
+#
+#     class Meta:
+#         managed = False
+#         db_table = 'ITEM'
 class Item(models.Model):
-    item_id = models.AutoField(primary_key=True)
-    item_name = models.CharField(max_length=70)
-    item_views = models.IntegerField(blank=True, null=True)
-    item_location = models.CharField(max_length=70)
-    item_sellorname = models.CharField(db_column='item_sellorName', max_length=70)  # Field name made lowercase.
-    item_sellorid = models.CharField(db_column='item_sellorId', max_length=70, blank=True, null=True)  # Field name made lowercase.
-    item_date = models.DateTimeField(blank=True, null=True)
-    item_price = models.IntegerField(blank=True, null=True)
-    item_detail = models.CharField(max_length=300, blank=True, null=True)       
-    item_img = models.CharField(max_length=1, blank=True, null=True)
-    item_status = models.CharField(max_length=20, blank=True, null=True)
-    item_dealtime = models.DateTimeField(blank=True, null=True)
+    item_no = models.AutoField(primary_key=True)
+    user_no = models.IntegerField()
+    item_title = models.CharField(max_length=100)
+    item_views = models.IntegerField(default=0)
+    item_price = models.IntegerField()
+    item_detail = models.TextField()
+    item_img = models.CharField(max_length=100)
+    item_status = models.CharField(max_length=10, default="판매중")
+    item_soldtime = models.DateTimeField(blank=True, null=True)
+    item_date = models.DateTimeField(blank=True, null=True, default=datetime.now)
 
     class Meta:
-        managed = False
-        db_table = 'ITEM'
+        db_table = 'item'
+        ordering = ['item_no']
+
+    def __str__(self):
+        return self.item_title
 
 
 class Search(models.Model):

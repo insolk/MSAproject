@@ -36,11 +36,11 @@ COGNITO_AUDIENC = get_secret("COGNITO_AUDIENCE")
 DATABASES = {
     'default' : {
         'ENGINE' : 'django.db.backends.mysql',
-        'NAME' : 'potato',
+        'NAME' : 'mydb',
         'USER' : 'root',
-        'PASSWORD' : 'mysql',
+        'PASSWORD' : '',
         'HOST' : 'localhost',
-        'PORT' : '3306',
+        'PORT' : '13306',
     }
 }
 
