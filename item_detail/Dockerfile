@@ -12,4 +12,4 @@ WORKDIR /items_detail
 
 EXPOSE 8000
 
-#CMD ["python", "manage.py","runserver", "172.19.0.2:8000"]
+#CMD ["python", "manage.py","runserver", "172.19.0.3:8000"]

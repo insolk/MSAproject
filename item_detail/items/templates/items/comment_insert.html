@@ -1,6 +1,6 @@
 {% load static %}
 
-<form action="{% url 'comment_insert' product_id=product.item_id %}" method="post">
+<form action="{% url 'comment_insert' product_no=product.item_no %}" method="post">
     {% csrf_token %}
     <br>
     <textarea name="comment_content" id="comment_content" class="form-control" cols="60" rows="5"></textarea>

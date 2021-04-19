@@ -1,5 +1,5 @@
 """
-WSGI config for potatomarket project.
+WSGI config for items project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
