@@ -7,6 +7,12 @@ from items.forms import CommentForm, UDForm
 from django.utils import timezone
 
 
+home = 'http://127.0.0.1:8001/'
+signin = 'http://127.0.0.1:8002/signin/'
+item_link = 'http://127.0.0.1:8003/items/'
+link = {'home': home, 'signin': signin, 'item_link': item_link};
+
+
 # Create your views here.
 
 def item_detail(request, product_no):
@@ -24,7 +30,7 @@ def item_detail(request, product_no):
     except EmptyPage:
         comments = paginator.page(paginator.num_pages)
 
-    return render(request, 'items/item_detail.html', {'product': product, 'comment': comments})
+    return render(request, 'items/item_detail.html', {'product': product, 'comment': comments, 'link': link})
 
 
 def comment_insert(request, product_no):
@@ -49,14 +55,14 @@ def comment_detail(request, product_no, comment_no):
         UDform = UDForm(request.POST)
         if UDform.is_valid():
             if UDform.cleaned_data['UD'] == 'update':
-                return render(request, 'items/comment_detail.html', {'comment': comment, 'product_no': product_no})
+                return render(request, 'items/comment_detail.html', {'comment': comment, 'product_no': product_no, 'link': link})
 
             elif UDform.cleaned_data['UD'] == 'delete':
                 Comment.objects.filter(comment_no=comment_no).delete()
 
                 return redirect('items_detail', product_no)  # , 제목)
 
-    return render(request, 'items/item_detail.html', {'comment': comment})
+    return render(request, 'items/item_detail.html', {'comment': comment, 'link': link})
 
 
 def comment_update(request, product_no, comment_no):
