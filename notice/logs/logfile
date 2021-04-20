@@ -19,3 +19,4 @@
 [16/Apr/2021 11:18:51] DEBUG [potatomarket.views:29] 'item_name': 11231, 'item_price': 21212, 'item_detail': 212112
 [19/Apr/2021 10:53:13] DEBUG [potatomarket.views:29] 'item_name': None, 'item_price': 123, 'item_detail': いしいけしけい
 [19/Apr/2021 17:08:47] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 123, 'item_detail': 123123
+[20/Apr/2021 13:20:45] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 12345, 'item_detail': けいしけいしけいしけいし
