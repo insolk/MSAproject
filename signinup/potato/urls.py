@@ -5,7 +5,7 @@ urlpatterns = [
     #localhost/"signup의 url"
     path('', include('signup.urls')), 
     #localhost/"signin의 url"
-    path('', include('signin.urls')),
+    # path('', include('signin.urls')),
     #localhost/"itemlist의 url"
     path('', include('itemlist.urls')),
 ]
