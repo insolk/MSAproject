@@ -4,11 +4,14 @@ RUN apt-get update
 RUN pip install django
 RUN pip install mysqlclient
 RUN pip install python-consul
+RUN pip install djangorestframework djangorestframework-jwt
+RUN pip install django-cognito-jwt
 RUN apt-get install -y vim
+RUN pip install bcrypt
 
 
-WORKDIR /main
-COPY /notice /main
+WORKDIR /signinup
+COPY /signinup /signinup
 
 
 EXPOSE 8000

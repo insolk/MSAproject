@@ -1,4 +1,6 @@
+import consul
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.http import HttpResponseRedirect
 
 from django.shortcuts import render, get_object_or_404, redirect
 from items.models import Item, Comment
@@ -7,17 +9,40 @@ from items.forms import CommentForm, UDForm
 from django.utils import timezone
 
 
+# client = consul.Consul(host='172.19.0.100', port=8500)
+#
+# home = "http://{}:{}/".format(client.catalog.service("main")[1][0]['Address'],
+#                               client.catalog.service("main")[1][0]['ServicePort'])
+# signin = "http://{}:{}/signin/".format(client.catalog.service("sign")[1][0]['Address'],
+#                                        client.catalog.service("sign")[1][0]['ServicePort'])
+#
+# item_link = "http://{}:{}/items/".format(client.catalog.service("itemDetail")[1][0]['Address'],
+#                                          client.catalog.service("itemDetail")[1][0]['ServicePort'])
+# user_link = "http://{}:{}/user_detail/".format(client.catalog.service("userDetail")[1][0]['Address'],
+#                                                client.catalog.service("userDetail")[1][0]['ServicePort'])
+
 home = 'http://127.0.0.1:8001/'
 signin = 'http://127.0.0.1:8002/signin/'
 item_link = 'http://127.0.0.1:8003/items/'
-link = {'home': home, 'signin': signin, 'item_link': item_link};
+user_link = 'http://127.0.0.1:8004/user/'
+
+link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link};
 
 
 # Create your views here.
 
+def logout(request):
+    response = HttpResponseRedirect(home)
+    response.delete_cookie('TOKEN')
+    return response
+
 def item_detail(request, product_no):
     # product= Item.objects.filter(item_id= item_id)
-
+    if 'TOKEN' in request.COOKIES:
+        token = request.COOKIES['TOKEN']
+    else:
+        token = ""
+    link['token'] = token
     product = get_object_or_404(Item, item_no=product_no)
     comment = Comment.objects.filter(item_no=product_no).order_by('-comment_create_date')
 
@@ -51,6 +76,11 @@ def comment_insert(request, product_no):
 
 def comment_detail(request, product_no, comment_no):
     comment = get_object_or_404(Comment, comment_no=comment_no)
+    if 'TOKEN' in request.COOKIES:
+        token = request.COOKIES['TOKEN']
+    else:
+        token = ""
+    link['token'] = token
     if request.method == "POST":
         UDform = UDForm(request.POST)
         if UDform.is_valid():

@@ -1,5 +1,5 @@
-
 import jwt
+import consul
 import json
 import bcrypt
 
@@ -10,51 +10,66 @@ from django.contrib import auth
 from rest_framework_jwt.settings import api_settings
 from django.shortcuts import render, redirect
 from potato.settings import SECRET_KEY
-from django.http import HttpResponse, JsonResponse #HTTP 통신
+from django.http import HttpResponse, JsonResponse  # HTTP 통신
 from django.contrib import messages
+
+# client = consul.Consul(host='172.19.0.100', port=8500)
+#
+# home = "http://{}:{}/".format(client.catalog.service("main")[1][0]['Address'],
+#                               client.catalog.service("main")[1][0]['ServicePort'])
+# signin = "http://{}:{}/signin/".format(client.catalog.service("sign")[1][0]['Address'],
+#                                        client.catalog.service("sign")[1][0]['ServicePort'])
+#
+# item_link = "http://{}:{}/items/".format(client.catalog.service("itemDetail")[1][0]['Address'],
+#                                          client.catalog.service("itemDetail")[1][0]['ServicePort'])
+# user_link = "http://{}:{}/user_detail/".format(client.catalog.service("userDetail")[1][0]['Address'],
+#                                                client.catalog.service("userDetail")[1][0]['ServicePort'])
 
 home = 'http://127.0.0.1:8001/'
 signin = 'http://127.0.0.1:8002/signin/'
 item_link = 'http://127.0.0.1:8003/items/'
-link = {'home': home, 'signin': signin, 'item_link': item_link};
+user_link = 'http://127.0.0.1:8004/user/'
+
+link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link};
 
 
 def index(request):
-    return render(request,'main/register.html', {'link': link})
+    return render(request, 'main/register.html', {'link': link})
 
 
 def signup(request):
     if request.method == "POST":
         try:
-            if User.objects.filter(user_email= request.POST['user_email']).exists(): #중복이 되면 안되는 항목
+            if User.objects.filter(user_email=request.POST['user_email']).exists():  # 중복이 되면 안되는 항목
                 messages.info(request, '이미 존재하는 Email입니다.')
                 return redirect('./')
                 # return JsonResponse({'message' : 'Aleady Exist Email'}, status=400)
-            elif User.objects.filter(user_nickname= request.POST['user_nickname']).exists(): #중복이 되면 안되는 항목
+            elif User.objects.filter(user_nickname=request.POST['user_nickname']).exists():  # 중복이 되면 안되는 항목
                 messages.info(request, '이미 존재하는 Nickname입니다.')
                 return redirect('./')
                 # return JsonResponse({'message' : 'Aleady nickname Email'}, status=400)
-            
-            #Email과 nickname이 중복되지 않았을 경우
+
+            # Email과 nickname이 중복되지 않았을 경우
             User.objects.create(
-                user_email = request.POST['user_email'],
-                user_password = bcrypt.hashpw(request.POST['user_password'].encode("UTF-8"), bcrypt.gensalt()).decode("UTF-8"),
-                user_nickname = request.POST['user_nickname'],
-                user_location = request.POST['user_location'],
-                user_gender = request.POST['user_gender'],
-                user_birthdate = request.POST['user_birthdate']
-                ).save()
+                user_email=request.POST['user_email'],
+                user_password=bcrypt.hashpw(request.POST['user_password'].encode("UTF-8"), bcrypt.gensalt()).decode(
+                    "UTF-8"),
+                user_nickname=request.POST['user_nickname'],
+                user_location=request.POST['user_location'],
+                user_gender=request.POST['user_gender'],
+                user_birthdate=request.POST['user_birthdate']
+            ).save()
             return redirect(link['signin'])
             # return HttpResponse(status = 200)
 
         except KeyError:
             return redirect('./')
             # return JsonResponse({'message' : 'Invalid Key'}, status=400)
-        
+
 
 def get(request):
-        userData = User.objects.values()
-        return JsonResponse({'member' : list(userData)}, status = 200)
+    userData = User.objects.values()
+    return JsonResponse({'member': list(userData)}, status=200)
 
 
 def loginpage(request):
@@ -74,8 +89,15 @@ def login(request):
                 # 로그인 성공 + 토큰 발급
                 if bcrypt.checkpw(request.POST['user_password'].encode("UTF-8"), user.user_password.encode("UTF-8")):
                     token = jwt.encode({'user': user.user_no}, SECRET_KEY, algorithm='HS256').decode('UTF-8')
-                    # return JsonResponse({'token': token, 'user':user.id}, status = 200)
-                    return redirect(link['home'])
+                    # return JsonResponse({'token': token, 'user':user.user_no}, status = 200)
+
+                    # print(request)
+                    # request['token'] = token
+                    response = redirect(link['home'], {'TOKEN': token})
+                    response['TOKEN'] = token
+                    response.set_cookie('TOKEN', token)
+                    return response
+                    # return redirect(link['home'], token=token)
                 # 예외처리: Password 오류
                 messages.info(request, '1.Email 또는 Password가 틀렸습니다.')
                 return redirect('./', {'error': 'username or password is incorrect'})
@@ -90,4 +112,3 @@ def login(request):
             return redirect('./', {'error': 'username or password is incorrect'})
             # return render(request, 'signin/', {'error':'username or password is incorrect'})
             # return JsonResponse({'message : Invalid Key'}, status = 400)
-
