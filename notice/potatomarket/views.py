@@ -12,6 +12,7 @@ logger = logging.getLogger(__name__)
 home = 'http://127.0.0.1:8001/'
 signin = 'http://127.0.0.1:8002/signin/'
 item_link = 'http://127.0.0.1:8003/items/'
+user_detail = 'http://127.0.0.1:8004/user_detail'
 
 
 # Create your views here.
@@ -27,7 +28,15 @@ class ItemLV(ListView):
         link['home'] = home
         link['signin'] = signin
         link['item_link'] = item_link
+        link['user_detail'] = user_detail
+        if 'TOKEN' in self.request.COOKIES:
+            token = self.request.COOKIES['TOKEN']
+        else:
+            token = ""
+        # print(self.response.headers['Location'])
+        link['token'] = token
         return link
+
 
 
 class ItemCreateView(CreateView):
@@ -48,4 +57,5 @@ class ItemCreateView(CreateView):
         link['home'] = home
         link['signin'] = signin
         link['item_link'] = item_link
+        link['user_detail'] = user_detail
         return link
