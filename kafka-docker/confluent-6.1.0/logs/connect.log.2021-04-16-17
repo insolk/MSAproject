@@ -1,0 +1,1597 @@
+[2021-04-16 17:00:06,211] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:06,223] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:00:16,236] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:16,239] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:00:26,250] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:26,252] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:00:36,262] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:36,264] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:00:46,275] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:46,277] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:00:56,287] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:00:56,289] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:06,299] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:06,300] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:16,307] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:16,308] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:26,318] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:26,319] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:36,330] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:36,332] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:46,343] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:46,344] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:01:56,355] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:01:56,356] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:06,364] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:06,366] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:16,369] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:16,371] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:26,382] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:26,384] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:36,389] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:36,390] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:46,399] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:46,400] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:02:56,410] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:02:56,413] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:06,418] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:06,419] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:16,424] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:16,426] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:26,438] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:26,440] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:36,444] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:36,447] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:46,456] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:46,459] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:03:56,467] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:03:56,469] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:06,478] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:06,479] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:16,489] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:16,491] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:26,498] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:26,502] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:36,512] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:36,514] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:46,519] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:46,522] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:04:56,529] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:04:56,531] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:06,538] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:06,539] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:16,549] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:16,551] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:26,564] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:26,566] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:36,574] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:36,575] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:46,584] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:46,587] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:05:56,597] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:05:56,600] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:06,612] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:06,613] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:16,618] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:16,620] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:26,630] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:26,633] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:36,638] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:36,640] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:46,651] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:46,654] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:06:56,663] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:06:56,666] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:06,672] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:06,673] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:16,678] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:16,679] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:26,680] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:26,683] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:36,688] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:36,689] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:46,693] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:46,695] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:07:56,701] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:07:56,704] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:08:06,710] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:08:06,713] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:08:16,717] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:08:16,718] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:08:24,544] INFO Successfully processed removal of connector 'signup-connect' (org.apache.kafka.connect.storage.KafkaConfigBackingStore:578)
+[2021-04-16 17:08:24,545] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector signup-connect config removed (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1521)
+[2021-04-16 17:08:24,546] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling connector-only config update by stopping connector signup-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:593)
+[2021-04-16 17:08:24,546] INFO Stopping connector signup-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:08:24,546] INFO Scheduled shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2021-04-16 17:08:24,547] INFO Stopping table monitoring thread (io.confluent.connect.jdbc.JdbcSourceConnector:176)
+[2021-04-16 17:08:24,547] INFO Shutting down thread monitoring tables. (io.confluent.connect.jdbc.source.TableMonitorThread:134)
+[2021-04-16 17:08:24,548] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:08:24,557] INFO Completed shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:269)
+[2021-04-16 17:08:24,565] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:08:24,566] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:08:24,572] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=12, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:08:24,585] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=12, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:08:24,586] INFO Stopping connector signup-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:08:24,587] INFO Stopping task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2021-04-16 17:08:24,587] WARN Ignoring stop request for unowned connector signup-connect (org.apache.kafka.connect.runtime.Worker:390)
+[2021-04-16 17:08:24,587] INFO Stopping JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:317)
+[2021-04-16 17:08:24,587] WARN Ignoring await stop request for non-present connector signup-connect (org.apache.kafka.connect.runtime.Worker:415)
+[2021-04-16 17:08:24,588] INFO Closing resources for JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:324)
+[2021-04-16 17:08:24,588] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:08:24,589] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:08:24,589] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:08:24,589] INFO [Producer clientId=connector-producer-signup-connect-0] Closing the Kafka producer with timeoutMillis = 30000 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:08:24,593] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:08:24,593] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:08:24,594] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:08:24,597] INFO App info kafka.producer for connector-producer-signup-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:08:24,600] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished stopping tasks in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1767)
+[2021-04-16 17:08:24,603] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished flushing status backing store in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1786)
+[2021-04-16 17:08:24,605] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 12 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=22, connectorIds=[signin-connect], taskIds=[signin-connect-0], revokedConnectorIds=[signup-connect], revokedTaskIds=[signup-connect-0], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:08:24,606] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 22 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:08:24,607] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:08:24,607] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:08:24,607] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:08:24,609] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=13, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:08:24,612] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=13, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:08:24,612] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 13 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=22, connectorIds=[signin-connect], taskIds=[signin-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:08:24,612] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 22 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:08:24,613] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:08:28,646] INFO Successfully processed removal of connector 'signin-connect' (org.apache.kafka.connect.storage.KafkaConfigBackingStore:578)
+[2021-04-16 17:08:28,648] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector signin-connect config removed (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1521)
+[2021-04-16 17:08:28,648] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling connector-only config update by stopping connector signin-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:593)
+[2021-04-16 17:08:28,649] INFO Stopping connector signin-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:08:28,649] INFO Scheduled shutdown for WorkerConnector{id=signin-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2021-04-16 17:08:28,650] INFO Completed shutdown for WorkerConnector{id=signin-connect} (org.apache.kafka.connect.runtime.WorkerConnector:269)
+[2021-04-16 17:08:28,651] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:08:28,653] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:08:28,655] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=14, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:08:28,659] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=14, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:08:28,661] INFO Stopping connector signin-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:08:28,661] WARN Ignoring stop request for unowned connector signin-connect (org.apache.kafka.connect.runtime.Worker:390)
+[2021-04-16 17:08:28,661] INFO Stopping task signin-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2021-04-16 17:08:28,662] WARN Ignoring await stop request for non-present connector signin-connect (org.apache.kafka.connect.runtime.Worker:415)
+[2021-04-16 17:08:28,664] INFO Stopping task (io.confluent.connect.jdbc.sink.JdbcSinkTask:161)
+[2021-04-16 17:08:28,665] INFO [Consumer clientId=connector-consumer-signin-connect-0, groupId=connect-signin-connect] Revoke previously assigned partitions my_topic_users-0 (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:307)
+[2021-04-16 17:08:28,666] INFO [Consumer clientId=connector-consumer-signin-connect-0, groupId=connect-signin-connect] Member connector-consumer-signin-connect-0-0eb0410b-5389-4543-8ceb-8180e1e6e0a0 sending LeaveGroup request to coordinator localhost:9092 (id: 2147483647 rack: null) due to the consumer is being closed (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:1029)
+[2021-04-16 17:08:28,674] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:08:28,674] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:08:28,675] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:08:28,679] INFO App info kafka.consumer for connector-consumer-signin-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:08:28,681] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished stopping tasks in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1767)
+[2021-04-16 17:08:28,683] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished flushing status backing store in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1786)
+[2021-04-16 17:08:28,683] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 14 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=24, connectorIds=[], taskIds=[], revokedConnectorIds=[signin-connect], revokedTaskIds=[signin-connect-0], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:08:28,685] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 24 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:08:28,685] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:08:28,686] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:08:28,686] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:08:28,690] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=15, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:08:28,693] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=15, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:08:28,693] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 15 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=24, connectorIds=[], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:08:28,694] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 24 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:08:28,694] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:12:59,672] INFO AbstractConfig values: 
+ (org.apache.kafka.common.config.AbstractConfig:361)
+[2021-04-16 17:12:59,688] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector signup-connect config updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1534)
+[2021-04-16 17:12:59,689] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:12:59,690] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:12:59,693] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=16, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:12:59,700] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=16, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:12:59,700] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 16 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=25, connectorIds=[signup-connect], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:12:59,700] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 25 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:12:59,701] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connector signup-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1299)
+[2021-04-16 17:12:59,702] INFO Creating connector signup-connect of type io.confluent.connect.jdbc.JdbcSourceConnector (org.apache.kafka.connect.runtime.Worker:274)
+[2021-04-16 17:12:59,703] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:12:59,703] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:12:59,705] INFO Instantiated connector signup-connect with version 10.1.0 of type class io.confluent.connect.jdbc.JdbcSourceConnector (org.apache.kafka.connect.runtime.Worker:284)
+[2021-04-16 17:12:59,705] INFO Finished creating connector signup-connect (org.apache.kafka.connect.runtime.Worker:310)
+[2021-04-16 17:12:59,706] INFO Starting JDBC Source Connector (io.confluent.connect.jdbc.JdbcSourceConnector:69)
+[2021-04-16 17:12:59,707] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:12:59,709] INFO JdbcSourceConnectorConfig values: 
+	batch.max.rows = 100
+	catalog.pattern = null
+	connection.attempts = 3
+	connection.backoff.ms = 10000
+	connection.password = [hidden]
+	connection.url = jdbc:mysql://localhost:3306/potato
+	connection.user = root
+	db.timezone = UTC
+	dialect.name = 
+	incrementing.column.name = id
+	mode = incrementing
+	numeric.mapping = null
+	numeric.precision.mapping = false
+	poll.interval.ms = 5000
+	query = 
+	query.suffix = 
+	quote.sql.identifiers = ALWAYS
+	schema.pattern = null
+	table.blacklist = []
+	table.poll.interval.ms = 60000
+	table.types = [TABLE]
+	table.whitelist = [users]
+	timestamp.column.name = []
+	timestamp.delay.interval.ms = 0
+	timestamp.initial = null
+	topic.prefix = my_topic_
+	validate.non.null = true
+ (io.confluent.connect.jdbc.source.JdbcSourceConnectorConfig:361)
+[2021-04-16 17:12:59,709] INFO Attempting to open connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:82)
+[2021-04-16 17:12:59,723] INFO Starting thread to monitor tables. (io.confluent.connect.jdbc.source.TableMonitorThread:73)
+[2021-04-16 17:12:59,726] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:12:59,727] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:13:00,204] INFO [Worker clientId=connect-1, groupId=connect-cluster] Tasks [signup-connect-0] configs updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1549)
+[2021-04-16 17:13:00,206] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling task config update by restarting tasks [] (org.apache.kafka.connect.runtime.distributed.DistributedHerder:647)
+[2021-04-16 17:13:00,206] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:13:00,207] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:13:00,211] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=17, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:13:00,217] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=17, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:13:00,219] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 17 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=27, connectorIds=[signup-connect], taskIds=[signup-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:13:00,219] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 27 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:13:00,220] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting task signup-connect-0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1258)
+[2021-04-16 17:13:00,220] INFO Creating task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:509)
+[2021-04-16 17:13:00,221] INFO ConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig:361)
+[2021-04-16 17:13:00,222] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:13:00,222] INFO TaskConfig values: 
+	task.class = class io.confluent.connect.jdbc.source.JdbcSourceTask
+ (org.apache.kafka.connect.runtime.TaskConfig:361)
+[2021-04-16 17:13:00,222] INFO Instantiated task signup-connect-0 with version 10.1.0 of type io.confluent.connect.jdbc.source.JdbcSourceTask (org.apache.kafka.connect.runtime.Worker:524)
+[2021-04-16 17:13:00,224] INFO JsonConverterConfig values: 
+	converter.type = key
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:13:00,225] INFO Set up the key converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:537)
+[2021-04-16 17:13:00,226] INFO JsonConverterConfig values: 
+	converter.type = value
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:13:00,226] INFO Set up the value converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:543)
+[2021-04-16 17:13:00,226] INFO Set up the header converter class org.apache.kafka.connect.storage.SimpleHeaderConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:550)
+[2021-04-16 17:13:00,228] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:13:00,228] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:13:00,229] INFO Initializing: org.apache.kafka.connect.runtime.TransformationChain{} (org.apache.kafka.connect.runtime.Worker:606)
+[2021-04-16 17:13:00,231] INFO ProducerConfig values: 
+	acks = -1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = connector-producer-signup-connect-0
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 2147483647
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 9223372036854775807
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 2147483647
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+ (org.apache.kafka.clients.producer.ProducerConfig:361)
+[2021-04-16 17:13:00,246] WARN The configuration 'metrics.context.connect.kafka.cluster.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:13:00,247] WARN The configuration 'metrics.context.connect.group.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:13:00,249] INFO Kafka version: 6.1.0-ccs (org.apache.kafka.common.utils.AppInfoParser:119)
+[2021-04-16 17:13:00,250] INFO Kafka commitId: 5496d92defc9bbe4 (org.apache.kafka.common.utils.AppInfoParser:120)
+[2021-04-16 17:13:00,250] INFO Kafka startTimeMs: 1618560780248 (org.apache.kafka.common.utils.AppInfoParser:121)
+[2021-04-16 17:13:00,254] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:13:00,256] INFO Starting JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:85)
+[2021-04-16 17:13:00,258] INFO JdbcSourceTaskConfig values: 
+	batch.max.rows = 100
+	catalog.pattern = null
+	connection.attempts = 3
+	connection.backoff.ms = 10000
+	connection.password = [hidden]
+	connection.url = jdbc:mysql://localhost:3306/potato
+	connection.user = root
+	db.timezone = UTC
+	dialect.name = 
+	incrementing.column.name = id
+	mode = incrementing
+	numeric.mapping = null
+	numeric.precision.mapping = false
+	poll.interval.ms = 5000
+	query = 
+	query.suffix = 
+	quote.sql.identifiers = ALWAYS
+	schema.pattern = null
+	table.blacklist = []
+	table.poll.interval.ms = 60000
+	table.types = [TABLE]
+	table.whitelist = [users]
+	tables = [`potato`.`users`]
+	timestamp.column.name = []
+	timestamp.delay.interval.ms = 0
+	timestamp.initial = null
+	topic.prefix = my_topic_
+	validate.non.null = true
+ (io.confluent.connect.jdbc.source.JdbcSourceTaskConfig:361)
+[2021-04-16 17:13:00,258] INFO Using JDBC dialect MySql (io.confluent.connect.jdbc.source.JdbcSourceTask:102)
+[2021-04-16 17:13:00,260] INFO [Producer clientId=connector-producer-signup-connect-0] Cluster ID: Q8p9D415SiKKjaZgAEXnGA (org.apache.kafka.clients.Metadata:279)
+[2021-04-16 17:13:00,322] INFO Attempting to open connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:82)
+[2021-04-16 17:13:00,350] INFO Found offset {{table=users}=null, {protocol=1, table=potato.users}={incrementing=14}} for partition {protocol=1, table=potato.users} (io.confluent.connect.jdbc.source.JdbcSourceTask:193)
+[2021-04-16 17:13:00,350] INFO Started JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:261)
+[2021-04-16 17:13:00,351] INFO WorkerSourceTask{id=signup-connect-0} Source task finished initialization and start (org.apache.kafka.connect.runtime.WorkerSourceTask:233)
+[2021-04-16 17:13:00,355] INFO Begin using SQL query: SELECT * FROM `potato`.`users` WHERE `potato`.`users`.`id` > ? ORDER BY `potato`.`users`.`id` ASC (io.confluent.connect.jdbc.source.TableQuerier:164)
+[2021-04-16 17:13:10,265] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:13:10,270] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:13:20,283] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:13:20,284] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:13:30,293] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:13:30,295] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:13:40,303] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:13:40,307] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:13:50,310] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:13:50,313] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:00,319] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:00,321] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:10,324] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:10,325] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:20,328] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:20,330] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:30,334] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:30,335] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:40,339] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:40,341] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:14:50,348] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:14:50,350] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:00,355] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:00,358] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:10,360] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:10,361] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:20,367] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:20,371] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:30,380] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:30,384] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:40,390] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:40,392] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:15:50,395] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:15:50,398] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:00,406] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:00,410] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:10,417] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:10,419] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:20,425] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:20,430] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:30,436] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:30,439] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:40,447] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:40,449] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:16:50,454] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:16:50,456] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:00,460] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:00,462] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:10,469] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:10,470] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:20,475] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:20,477] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:30,481] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:30,484] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:40,486] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:40,489] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:17:50,495] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:17:50,497] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:00,504] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:00,506] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:10,510] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:10,511] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:20,523] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:20,527] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:30,537] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:30,540] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:40,550] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:40,551] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:18:50,555] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:18:50,556] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:00,561] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:00,563] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:10,566] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:10,568] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:20,574] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:20,576] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:30,582] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:30,584] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:40,589] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:40,878] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:19:50,886] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:19:50,887] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:00,895] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:00,899] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:10,904] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:10,909] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:20,913] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:20,915] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:30,920] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:30,922] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:40,928] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:40,930] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:20:50,934] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:20:50,937] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:00,942] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:00,945] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:10,953] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:10,954] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:20,962] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:20,966] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:30,978] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:30,981] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:40,988] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:40,992] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:21:50,995] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:21:50,998] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:01,003] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:01,006] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:11,013] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:11,017] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:21,021] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:21,025] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:31,030] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:31,032] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:41,037] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:41,038] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:22:51,045] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:22:51,048] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:01,050] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:01,052] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:11,054] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:11,058] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:21,061] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:21,064] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:31,067] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:31,069] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:41,075] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:41,078] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:23:51,085] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:23:51,086] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:01,112] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:01,130] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:11,145] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:11,149] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:21,158] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:21,162] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:31,168] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:31,169] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:41,171] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:41,173] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:24:51,177] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:24:51,179] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:01,182] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:01,188] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:11,196] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:11,200] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:21,205] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:21,208] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:31,213] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:31,216] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:41,220] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:41,224] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:25:51,231] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:25:51,233] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:01,234] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:01,236] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:11,243] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:11,246] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:21,250] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:21,251] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:31,254] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:31,256] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:41,262] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:41,266] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:26:51,271] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:26:51,273] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:01,275] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:01,278] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:11,286] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:11,288] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:21,294] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:21,298] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:31,304] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:31,307] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:41,311] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:41,313] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:27:51,316] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:27:51,318] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:01,322] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:01,324] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:11,330] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:11,331] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:21,334] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:21,336] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:31,338] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:31,343] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:41,345] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:41,348] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:28:51,354] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:28:51,357] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:01,365] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:01,369] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:11,372] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:11,374] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:21,377] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:21,381] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:31,384] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:31,388] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:41,391] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:41,393] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:29:51,400] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:29:51,404] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:01,410] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:01,412] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:11,417] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:11,421] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:21,423] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:21,425] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:31,432] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:31,435] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:41,441] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:41,442] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:51,450] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:30:51,452] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:30:52,266] ERROR Failed to run query for table TimestampIncrementingTableQuerier{table="potato"."users", query='null', topicPrefix='my_topic_', incrementingColumn='id', timestampColumns=[]}: {} (io.confluent.connect.jdbc.source.JdbcSourceTask:404)
+java.sql.SQLSyntaxErrorException: Table 'potato.users' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003)
+	at io.confluent.connect.jdbc.source.TimestampIncrementingTableQuerier.executeQuery(TimestampIncrementingTableQuerier.java:200)
+	at io.confluent.connect.jdbc.source.TimestampIncrementingTableQuerier.maybeStartQuery(TimestampIncrementingTableQuerier.java:159)
+	at io.confluent.connect.jdbc.source.JdbcSourceTask.poll(JdbcSourceTask.java:371)
+	at org.apache.kafka.connect.runtime.WorkerSourceTask.poll(WorkerSourceTask.java:289)
+	at org.apache.kafka.connect.runtime.WorkerSourceTask.execute(WorkerSourceTask.java:256)
+	at org.apache.kafka.connect.runtime.WorkerTask.doRun(WorkerTask.java:185)
+	at org.apache.kafka.connect.runtime.WorkerTask.run(WorkerTask.java:234)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-04-16 17:30:57,301] ERROR Failed to run query for table TimestampIncrementingTableQuerier{table="potato"."users", query='null', topicPrefix='my_topic_', incrementingColumn='id', timestampColumns=[]}: {} (io.confluent.connect.jdbc.source.JdbcSourceTask:404)
+java.sql.SQLSyntaxErrorException: Table 'potato.users' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003)
+	at io.confluent.connect.jdbc.source.TimestampIncrementingTableQuerier.executeQuery(TimestampIncrementingTableQuerier.java:200)
+	at io.confluent.connect.jdbc.source.TimestampIncrementingTableQuerier.maybeStartQuery(TimestampIncrementingTableQuerier.java:159)
+	at io.confluent.connect.jdbc.source.JdbcSourceTask.poll(JdbcSourceTask.java:371)
+	at org.apache.kafka.connect.runtime.WorkerSourceTask.poll(WorkerSourceTask.java:289)
+	at org.apache.kafka.connect.runtime.WorkerSourceTask.execute(WorkerSourceTask.java:256)
+	at org.apache.kafka.connect.runtime.WorkerTask.doRun(WorkerTask.java:185)
+	at org.apache.kafka.connect.runtime.WorkerTask.run(WorkerTask.java:234)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-04-16 17:31:00,460] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:31:00,463] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:31:00,467] WARN No tasks will be run because no tables were found (io.confluent.connect.jdbc.JdbcSourceConnector:152)
+[2021-04-16 17:31:00,551] INFO [Worker clientId=connect-1, groupId=connect-cluster] Tasks [] configs updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1549)
+[2021-04-16 17:31:00,553] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:31:00,553] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:31:00,559] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=18, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:31:00,566] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=18, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:31:00,567] INFO Stopping task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2021-04-16 17:31:00,568] INFO Stopping JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:317)
+[2021-04-16 17:31:00,613] INFO Closing resources for JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:324)
+[2021-04-16 17:31:00,614] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:31:00,617] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:31:00,617] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:31:00,617] INFO [Producer clientId=connector-producer-signup-connect-0] Closing the Kafka producer with timeoutMillis = 30000 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:31:00,628] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:31:00,629] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:31:00,629] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:31:00,632] INFO App info kafka.producer for connector-producer-signup-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:31:00,639] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished stopping tasks in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1767)
+[2021-04-16 17:31:00,640] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished flushing status backing store in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1786)
+[2021-04-16 17:31:00,641] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 18 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=28, connectorIds=[signup-connect], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[signup-connect-0], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:31:00,641] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 28 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:31:00,642] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:31:00,642] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:31:00,643] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:31:00,646] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=19, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:31:00,654] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=19, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:31:00,656] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 19 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=28, connectorIds=[signup-connect], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:31:00,656] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 28 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:31:00,657] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:32:00,476] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:32:00,477] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:32:01,009] INFO [Worker clientId=connect-1, groupId=connect-cluster] Tasks [signup-connect-0] configs updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1549)
+[2021-04-16 17:32:01,010] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling task config update by restarting tasks [] (org.apache.kafka.connect.runtime.distributed.DistributedHerder:647)
+[2021-04-16 17:32:01,011] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:32:01,011] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:32:01,015] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=20, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:32:01,022] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=20, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:32:01,022] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 20 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=30, connectorIds=[signup-connect], taskIds=[signup-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:32:01,023] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 30 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:32:01,032] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting task signup-connect-0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1258)
+[2021-04-16 17:32:01,032] INFO Creating task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:509)
+[2021-04-16 17:32:01,045] INFO ConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig:361)
+[2021-04-16 17:32:01,045] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:32:01,046] INFO TaskConfig values: 
+	task.class = class io.confluent.connect.jdbc.source.JdbcSourceTask
+ (org.apache.kafka.connect.runtime.TaskConfig:361)
+[2021-04-16 17:32:01,047] INFO Instantiated task signup-connect-0 with version 10.1.0 of type io.confluent.connect.jdbc.source.JdbcSourceTask (org.apache.kafka.connect.runtime.Worker:524)
+[2021-04-16 17:32:01,049] INFO JsonConverterConfig values: 
+	converter.type = key
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:32:01,049] INFO Set up the key converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:537)
+[2021-04-16 17:32:01,050] INFO JsonConverterConfig values: 
+	converter.type = value
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:32:01,051] INFO Set up the value converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:543)
+[2021-04-16 17:32:01,054] INFO Set up the header converter class org.apache.kafka.connect.storage.SimpleHeaderConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:550)
+[2021-04-16 17:32:01,066] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:32:01,066] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:32:01,067] INFO Initializing: org.apache.kafka.connect.runtime.TransformationChain{} (org.apache.kafka.connect.runtime.Worker:606)
+[2021-04-16 17:32:01,068] INFO ProducerConfig values: 
+	acks = -1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = connector-producer-signup-connect-0
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 2147483647
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 9223372036854775807
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 2147483647
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+ (org.apache.kafka.clients.producer.ProducerConfig:361)
+[2021-04-16 17:32:01,082] WARN The configuration 'metrics.context.connect.kafka.cluster.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:32:01,083] WARN The configuration 'metrics.context.connect.group.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:32:01,083] INFO Kafka version: 6.1.0-ccs (org.apache.kafka.common.utils.AppInfoParser:119)
+[2021-04-16 17:32:01,084] INFO Kafka commitId: 5496d92defc9bbe4 (org.apache.kafka.common.utils.AppInfoParser:120)
+[2021-04-16 17:32:01,085] INFO Kafka startTimeMs: 1618561921083 (org.apache.kafka.common.utils.AppInfoParser:121)
+[2021-04-16 17:32:01,096] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:32:01,096] INFO Starting JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:85)
+[2021-04-16 17:32:01,101] INFO JdbcSourceTaskConfig values: 
+	batch.max.rows = 100
+	catalog.pattern = null
+	connection.attempts = 3
+	connection.backoff.ms = 10000
+	connection.password = [hidden]
+	connection.url = jdbc:mysql://localhost:3306/potato
+	connection.user = root
+	db.timezone = UTC
+	dialect.name = 
+	incrementing.column.name = id
+	mode = incrementing
+	numeric.mapping = null
+	numeric.precision.mapping = false
+	poll.interval.ms = 5000
+	query = 
+	query.suffix = 
+	quote.sql.identifiers = ALWAYS
+	schema.pattern = null
+	table.blacklist = []
+	table.poll.interval.ms = 60000
+	table.types = [TABLE]
+	table.whitelist = [users]
+	tables = [`potato`.`users`]
+	timestamp.column.name = []
+	timestamp.delay.interval.ms = 0
+	timestamp.initial = null
+	topic.prefix = my_topic_
+	validate.non.null = true
+ (io.confluent.connect.jdbc.source.JdbcSourceTaskConfig:361)
+[2021-04-16 17:32:01,105] INFO Using JDBC dialect MySql (io.confluent.connect.jdbc.source.JdbcSourceTask:102)
+[2021-04-16 17:32:01,107] INFO [Producer clientId=connector-producer-signup-connect-0] Cluster ID: Q8p9D415SiKKjaZgAEXnGA (org.apache.kafka.clients.Metadata:279)
+[2021-04-16 17:32:01,586] INFO Attempting to open connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:82)
+[2021-04-16 17:32:01,629] INFO Found offset {{table=users}=null, {protocol=1, table=potato.users}={incrementing=14}} for partition {protocol=1, table=potato.users} (io.confluent.connect.jdbc.source.JdbcSourceTask:193)
+[2021-04-16 17:32:01,633] INFO Started JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:261)
+[2021-04-16 17:32:01,633] INFO WorkerSourceTask{id=signup-connect-0} Source task finished initialization and start (org.apache.kafka.connect.runtime.WorkerSourceTask:233)
+[2021-04-16 17:32:01,636] INFO Begin using SQL query: SELECT * FROM `potato`.`users` WHERE `potato`.`users`.`id` > ? ORDER BY `potato`.`users`.`id` ASC (io.confluent.connect.jdbc.source.TableQuerier:164)
+[2021-04-16 17:32:11,101] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:32:11,102] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:32:21,108] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:32:21,109] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:32:31,114] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:32:31,115] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:32:41,119] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:32:41,121] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:32:51,123] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:32:51,124] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:01,128] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:01,130] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:11,134] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:11,136] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:21,141] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:21,143] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:31,148] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:31,149] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:41,150] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:41,153] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:51,155] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:33:51,157] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:33:52,380] INFO AbstractConfig values: 
+ (org.apache.kafka.common.config.AbstractConfig:361)
+[2021-04-16 17:34:01,164] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:01,165] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:34:11,167] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:11,168] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:34:21,170] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:21,171] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:34:31,177] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:31,178] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:34:41,184] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:41,186] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:34:51,191] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:34:51,192] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:01,197] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:01,198] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:11,203] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:11,204] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:21,209] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:21,209] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:31,212] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:31,214] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:41,220] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:41,221] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:45,200] INFO Successfully processed removal of connector 'signup-connect' (org.apache.kafka.connect.storage.KafkaConfigBackingStore:578)
+[2021-04-16 17:35:45,201] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector signup-connect config removed (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1521)
+[2021-04-16 17:35:45,201] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling connector-only config update by stopping connector signup-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:593)
+[2021-04-16 17:35:45,202] INFO Stopping connector signup-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:35:45,202] INFO Scheduled shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2021-04-16 17:35:45,202] INFO Stopping table monitoring thread (io.confluent.connect.jdbc.JdbcSourceConnector:176)
+[2021-04-16 17:35:45,202] INFO Shutting down thread monitoring tables. (io.confluent.connect.jdbc.source.TableMonitorThread:134)
+[2021-04-16 17:35:45,203] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:35:45,206] INFO Completed shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:269)
+[2021-04-16 17:35:45,209] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:35:45,210] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:35:45,215] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=21, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:35:45,219] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=21, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:35:45,219] INFO Stopping connector signup-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:35:45,220] INFO Stopping task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2021-04-16 17:35:45,220] WARN Ignoring stop request for unowned connector signup-connect (org.apache.kafka.connect.runtime.Worker:390)
+[2021-04-16 17:35:45,220] INFO Stopping JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:317)
+[2021-04-16 17:35:45,220] WARN Ignoring await stop request for non-present connector signup-connect (org.apache.kafka.connect.runtime.Worker:415)
+[2021-04-16 17:35:45,243] INFO Closing resources for JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:324)
+[2021-04-16 17:35:45,243] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:35:45,243] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:35:45,244] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:35:45,244] INFO [Producer clientId=connector-producer-signup-connect-0] Closing the Kafka producer with timeoutMillis = 30000 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:35:45,247] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:35:45,247] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:35:45,247] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:35:45,247] INFO App info kafka.producer for connector-producer-signup-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:35:45,248] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished stopping tasks in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1767)
+[2021-04-16 17:35:45,249] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished flushing status backing store in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1786)
+[2021-04-16 17:35:45,250] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 21 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=32, connectorIds=[], taskIds=[], revokedConnectorIds=[signup-connect], revokedTaskIds=[signup-connect-0], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:35:45,252] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 32 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:35:45,252] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:35:45,252] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:35:45,253] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:35:45,255] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=22, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:35:45,260] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=22, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:35:45,261] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 22 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=32, connectorIds=[], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:35:45,261] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 32 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:35:45,261] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:35:50,841] INFO AbstractConfig values: 
+ (org.apache.kafka.common.config.AbstractConfig:361)
+[2021-04-16 17:35:50,862] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector signup-connect config updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1534)
+[2021-04-16 17:35:50,862] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:35:50,862] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:35:50,864] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=23, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:35:50,867] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=23, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:35:50,867] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 23 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=33, connectorIds=[signup-connect], taskIds=[], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:35:50,867] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 33 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:35:50,868] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connector signup-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1299)
+[2021-04-16 17:35:50,868] INFO Creating connector signup-connect of type io.confluent.connect.jdbc.JdbcSourceConnector (org.apache.kafka.connect.runtime.Worker:274)
+[2021-04-16 17:35:50,869] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:35:50,869] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:35:50,870] INFO Instantiated connector signup-connect with version 10.1.0 of type class io.confluent.connect.jdbc.JdbcSourceConnector (org.apache.kafka.connect.runtime.Worker:284)
+[2021-04-16 17:35:50,870] INFO Finished creating connector signup-connect (org.apache.kafka.connect.runtime.Worker:310)
+[2021-04-16 17:35:50,870] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:35:50,870] INFO Starting JDBC Source Connector (io.confluent.connect.jdbc.JdbcSourceConnector:69)
+[2021-04-16 17:35:50,875] INFO JdbcSourceConnectorConfig values: 
+	batch.max.rows = 100
+	catalog.pattern = null
+	connection.attempts = 3
+	connection.backoff.ms = 10000
+	connection.password = [hidden]
+	connection.url = jdbc:mysql://localhost:3306/potato
+	connection.user = root
+	db.timezone = UTC
+	dialect.name = 
+	incrementing.column.name = id
+	mode = incrementing
+	numeric.mapping = null
+	numeric.precision.mapping = false
+	poll.interval.ms = 5000
+	query = 
+	query.suffix = 
+	quote.sql.identifiers = ALWAYS
+	schema.pattern = null
+	table.blacklist = []
+	table.poll.interval.ms = 60000
+	table.types = [TABLE]
+	table.whitelist = [users]
+	timestamp.column.name = []
+	timestamp.delay.interval.ms = 0
+	timestamp.initial = null
+	topic.prefix = my_topic_
+	validate.non.null = true
+ (io.confluent.connect.jdbc.source.JdbcSourceConnectorConfig:361)
+[2021-04-16 17:35:50,878] INFO Attempting to open connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:82)
+[2021-04-16 17:35:50,892] INFO Starting thread to monitor tables. (io.confluent.connect.jdbc.source.TableMonitorThread:73)
+[2021-04-16 17:35:50,897] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:35:50,897] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:35:51,902] INFO [Worker clientId=connect-1, groupId=connect-cluster] Tasks [signup-connect-0] configs updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1549)
+[2021-04-16 17:35:51,902] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling task config update by restarting tasks [] (org.apache.kafka.connect.runtime.distributed.DistributedHerder:647)
+[2021-04-16 17:35:51,902] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
+[2021-04-16 17:35:51,902] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
+[2021-04-16 17:35:51,904] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=24, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
+[2021-04-16 17:35:51,908] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=24, memberId='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
+[2021-04-16 17:35:51,908] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 24 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e', leaderUrl='http://127.0.0.1:8083/', offset=35, connectorIds=[signup-connect], taskIds=[signup-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
+[2021-04-16 17:35:51,909] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 35 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
+[2021-04-16 17:35:51,910] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting task signup-connect-0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1258)
+[2021-04-16 17:35:51,911] INFO Creating task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:509)
+[2021-04-16 17:35:51,913] INFO ConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig:361)
+[2021-04-16 17:35:51,913] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:35:51,915] INFO TaskConfig values: 
+	task.class = class io.confluent.connect.jdbc.source.JdbcSourceTask
+ (org.apache.kafka.connect.runtime.TaskConfig:361)
+[2021-04-16 17:35:51,915] INFO Instantiated task signup-connect-0 with version 10.1.0 of type io.confluent.connect.jdbc.source.JdbcSourceTask (org.apache.kafka.connect.runtime.Worker:524)
+[2021-04-16 17:35:51,917] INFO JsonConverterConfig values: 
+	converter.type = key
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:35:51,917] INFO Set up the key converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:537)
+[2021-04-16 17:35:51,918] INFO JsonConverterConfig values: 
+	converter.type = value
+	decimal.format = BASE64
+	schemas.cache.size = 1000
+	schemas.enable = true
+ (org.apache.kafka.connect.json.JsonConverterConfig:361)
+[2021-04-16 17:35:51,918] INFO Set up the value converter class org.apache.kafka.connect.json.JsonConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:543)
+[2021-04-16 17:35:51,918] INFO Set up the header converter class org.apache.kafka.connect.storage.SimpleHeaderConverter for task signup-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:550)
+[2021-04-16 17:35:51,919] INFO SourceConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.SourceConnectorConfig:361)
+[2021-04-16 17:35:51,919] INFO EnrichedConnectorConfig values: 
+	config.action.reload = restart
+	connector.class = io.confluent.connect.jdbc.JdbcSourceConnector
+	errors.log.enable = false
+	errors.log.include.messages = false
+	errors.retry.delay.max.ms = 60000
+	errors.retry.timeout = 0
+	errors.tolerance = none
+	header.converter = null
+	key.converter = null
+	name = signup-connect
+	predicates = []
+	tasks.max = 1
+	topic.creation.groups = []
+	transforms = []
+	value.converter = null
+ (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
+[2021-04-16 17:35:51,919] INFO Initializing: org.apache.kafka.connect.runtime.TransformationChain{} (org.apache.kafka.connect.runtime.Worker:606)
+[2021-04-16 17:35:51,922] INFO ProducerConfig values: 
+	acks = -1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = connector-producer-signup-connect-0
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 2147483647
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 9223372036854775807
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 2147483647
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+ (org.apache.kafka.clients.producer.ProducerConfig:361)
+[2021-04-16 17:35:51,928] WARN The configuration 'metrics.context.connect.kafka.cluster.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:35:51,928] WARN The configuration 'metrics.context.connect.group.id' was supplied but isn't a known config. (org.apache.kafka.clients.producer.ProducerConfig:369)
+[2021-04-16 17:35:51,928] INFO Kafka version: 6.1.0-ccs (org.apache.kafka.common.utils.AppInfoParser:119)
+[2021-04-16 17:35:51,929] INFO Kafka commitId: 5496d92defc9bbe4 (org.apache.kafka.common.utils.AppInfoParser:120)
+[2021-04-16 17:35:51,929] INFO Kafka startTimeMs: 1618562151928 (org.apache.kafka.common.utils.AppInfoParser:121)
+[2021-04-16 17:35:51,930] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
+[2021-04-16 17:35:51,935] INFO Starting JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:85)
+[2021-04-16 17:35:51,938] INFO JdbcSourceTaskConfig values: 
+	batch.max.rows = 100
+	catalog.pattern = null
+	connection.attempts = 3
+	connection.backoff.ms = 10000
+	connection.password = [hidden]
+	connection.url = jdbc:mysql://localhost:3306/potato
+	connection.user = root
+	db.timezone = UTC
+	dialect.name = 
+	incrementing.column.name = id
+	mode = incrementing
+	numeric.mapping = null
+	numeric.precision.mapping = false
+	poll.interval.ms = 5000
+	query = 
+	query.suffix = 
+	quote.sql.identifiers = ALWAYS
+	schema.pattern = null
+	table.blacklist = []
+	table.poll.interval.ms = 60000
+	table.types = [TABLE]
+	table.whitelist = [users]
+	tables = [`potato`.`users`]
+	timestamp.column.name = []
+	timestamp.delay.interval.ms = 0
+	timestamp.initial = null
+	topic.prefix = my_topic_
+	validate.non.null = true
+ (io.confluent.connect.jdbc.source.JdbcSourceTaskConfig:361)
+[2021-04-16 17:35:51,938] INFO Using JDBC dialect MySql (io.confluent.connect.jdbc.source.JdbcSourceTask:102)
+[2021-04-16 17:35:51,939] INFO [Producer clientId=connector-producer-signup-connect-0] Cluster ID: Q8p9D415SiKKjaZgAEXnGA (org.apache.kafka.clients.Metadata:279)
+[2021-04-16 17:35:52,270] INFO Attempting to open connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:82)
+[2021-04-16 17:35:52,288] INFO Found offset {{table=users}=null, {protocol=1, table=potato.users}={incrementing=14}} for partition {protocol=1, table=potato.users} (io.confluent.connect.jdbc.source.JdbcSourceTask:193)
+[2021-04-16 17:35:52,288] INFO Started JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:261)
+[2021-04-16 17:35:52,288] INFO WorkerSourceTask{id=signup-connect-0} Source task finished initialization and start (org.apache.kafka.connect.runtime.WorkerSourceTask:233)
+[2021-04-16 17:35:52,288] INFO Begin using SQL query: SELECT * FROM `potato`.`users` WHERE `potato`.`users`.`id` > ? ORDER BY `potato`.`users`.`id` ASC (io.confluent.connect.jdbc.source.TableQuerier:164)
+[2021-04-16 17:36:01,941] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:01,942] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:36:11,950] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:11,951] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:36:21,952] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:21,954] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:36:31,959] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:31,961] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:36:41,965] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:41,966] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:36:51,968] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:36:51,969] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:01,970] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:01,972] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:11,977] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:11,978] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:21,990] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:21,993] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:32,001] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:32,002] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:42,007] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:42,009] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:37:52,013] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:37:52,015] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:02,018] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:02,019] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:12,024] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:12,026] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:22,038] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:22,039] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:32,043] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:32,044] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:42,049] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:42,051] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:38:52,056] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:38:52,057] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:02,062] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:02,063] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:12,067] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:12,069] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:22,072] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:22,074] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:32,076] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:32,077] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:42,081] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:42,081] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:39:52,084] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:39:52,086] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:40:02,092] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:40:02,093] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:40:03,879] INFO Kafka Connect stopping (org.apache.kafka.connect.runtime.Connect:67)
+[2021-04-16 17:40:03,880] INFO Stopping REST server (org.apache.kafka.connect.runtime.rest.RestServer:327)
+[2021-04-16 17:40:03,911] INFO Stopped http_8083@34f392be{HTTP/1.1, (http/1.1)}{0.0.0.0:8083} (org.eclipse.jetty.server.AbstractConnector:381)
+[2021-04-16 17:40:03,912] INFO node0 Stopped scavenging (org.eclipse.jetty.server.session:149)
+[2021-04-16 17:40:03,918] INFO REST server stopped (org.apache.kafka.connect.runtime.rest.RestServer:344)
+[2021-04-16 17:40:03,919] INFO [Worker clientId=connect-1, groupId=connect-cluster] Herder stopping (org.apache.kafka.connect.runtime.distributed.DistributedHerder:682)
+[2021-04-16 17:40:03,920] INFO [Worker clientId=connect-1, groupId=connect-cluster] Stopping connectors and tasks that are still assigned to this worker. (org.apache.kafka.connect.runtime.distributed.DistributedHerder:656)
+[2021-04-16 17:40:03,931] INFO Stopping connector signup-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2021-04-16 17:40:03,931] INFO Stopping task signup-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2021-04-16 17:40:03,931] INFO Scheduled shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2021-04-16 17:40:03,931] INFO Stopping JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:317)
+[2021-04-16 17:40:03,931] INFO Stopping table monitoring thread (io.confluent.connect.jdbc.JdbcSourceConnector:176)
+[2021-04-16 17:40:03,932] INFO Shutting down thread monitoring tables. (io.confluent.connect.jdbc.source.TableMonitorThread:134)
+[2021-04-16 17:40:03,932] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:40:03,936] INFO Completed shutdown for WorkerConnector{id=signup-connect} (org.apache.kafka.connect.runtime.WorkerConnector:269)
+[2021-04-16 17:40:03,989] INFO Closing resources for JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:324)
+[2021-04-16 17:40:03,989] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:108)
+[2021-04-16 17:40:03,990] INFO WorkerSourceTask{id=signup-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2021-04-16 17:40:03,990] INFO WorkerSourceTask{id=signup-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2021-04-16 17:40:03,990] INFO [Producer clientId=connector-producer-signup-connect-0] Closing the Kafka producer with timeoutMillis = 30000 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:40:03,992] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:03,992] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:03,993] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:03,993] INFO App info kafka.producer for connector-producer-signup-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:03,995] INFO [Worker clientId=connect-1, groupId=connect-cluster] Member connect-1-89c4a5e9-dfcd-48ff-a096-198d78edb98e sending LeaveGroup request to coordinator localhost:9092 (id: 2147483647 rack: null) due to the consumer is being closed (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:1029)
+[2021-04-16 17:40:03,996] WARN [Worker clientId=connect-1, groupId=connect-cluster] Close timed out with 1 pending requests to coordinator, terminating client connections (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:1010)
+[2021-04-16 17:40:03,996] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:03,996] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:03,996] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:03,997] INFO App info kafka.connect for connect-1 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:03,998] INFO Stopping KafkaBasedLog for topic connect-status (org.apache.kafka.connect.util.KafkaBasedLog:170)
+[2021-04-16 17:40:03,998] INFO [Producer clientId=producer-2] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:40:04,001] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,001] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,001] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,001] INFO App info kafka.producer for producer-2 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,002] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,002] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,002] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,003] INFO App info kafka.consumer for consumer-connect-cluster-2 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,003] INFO Stopped KafkaBasedLog for topic connect-status (org.apache.kafka.connect.util.KafkaBasedLog:196)
+[2021-04-16 17:40:04,003] INFO Closing KafkaConfigBackingStore (org.apache.kafka.connect.storage.KafkaConfigBackingStore:285)
+[2021-04-16 17:40:04,003] INFO Stopping KafkaBasedLog for topic connect-configs (org.apache.kafka.connect.util.KafkaBasedLog:170)
+[2021-04-16 17:40:04,003] INFO [Producer clientId=producer-3] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:40:04,004] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,004] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,004] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,005] INFO App info kafka.producer for producer-3 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,005] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,005] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,005] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,005] INFO App info kafka.consumer for consumer-connect-cluster-3 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,005] INFO Stopped KafkaBasedLog for topic connect-configs (org.apache.kafka.connect.util.KafkaBasedLog:196)
+[2021-04-16 17:40:04,005] INFO Closed KafkaConfigBackingStore (org.apache.kafka.connect.storage.KafkaConfigBackingStore:287)
+[2021-04-16 17:40:04,005] INFO Worker stopping (org.apache.kafka.connect.runtime.Worker:209)
+[2021-04-16 17:40:04,006] INFO Stopping KafkaOffsetBackingStore (org.apache.kafka.connect.storage.KafkaOffsetBackingStore:134)
+[2021-04-16 17:40:04,006] INFO Stopping KafkaBasedLog for topic connect-offsets (org.apache.kafka.connect.util.KafkaBasedLog:170)
+[2021-04-16 17:40:04,007] INFO [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2021-04-16 17:40:04,007] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,007] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,007] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,010] INFO App info kafka.producer for producer-1 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,010] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,010] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,010] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,011] INFO App info kafka.consumer for consumer-connect-cluster-1 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,011] INFO Stopped KafkaBasedLog for topic connect-offsets (org.apache.kafka.connect.util.KafkaBasedLog:196)
+[2021-04-16 17:40:04,013] INFO Stopped KafkaOffsetBackingStore (org.apache.kafka.connect.storage.KafkaOffsetBackingStore:136)
+[2021-04-16 17:40:04,013] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2021-04-16 17:40:04,013] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2021-04-16 17:40:04,013] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2021-04-16 17:40:04,015] INFO App info kafka.connect for 127.0.0.1:8083 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2021-04-16 17:40:04,016] INFO Worker stopped (org.apache.kafka.connect.runtime.Worker:230)
+[2021-04-16 17:40:04,018] INFO [Worker clientId=connect-1, groupId=connect-cluster] Herder stopped (org.apache.kafka.connect.runtime.distributed.DistributedHerder:300)
+[2021-04-16 17:40:04,021] INFO [Worker clientId=connect-1, groupId=connect-cluster] Herder stopped (org.apache.kafka.connect.runtime.distributed.DistributedHerder:702)
+[2021-04-16 17:40:04,021] INFO Kafka Connect stopped (org.apache.kafka.connect.runtime.Connect:72)
