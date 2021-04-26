@@ -1,0 +1,87 @@
+{% extends "search/base.html" %}
+{% block content %}
+    {% load static %}
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+    <!-- Category -->
+      <div class="col-lg-3">
+        <h1 class="my-4">Shop Name</h1>
+        <div class="list-group">
+          <a href="#" class="list-group-item"> 의류 </a>
+          <a href="#" class="list-group-item"> 가구 </a>
+          <a href="#" class="list-group-item"> 전자기기 </a>
+          <a href="/search" class="list-group-item">search</a>
+        </div>
+      </div>
+      <!-- /.col-lg-3 -->
+      <div class="col-lg-9">
+          <div class="card-body">
+            <!-- 검색창 -->
+            <form method="post">
+              {% csrf_token %}
+              <select name="category">
+                <option value="default" selected="selected">전체</option>
+                <option value="clothes"> 의류 </option>
+                <option value="furniture"> 가구 </option>
+                <option value="device"> 전자기기 </option>
+              </select>
+            <label for="search_keyword"> Search keyword: </label>
+            <input
+                id="search_keyword"
+                type="text"
+                name="search_keyword"
+                value="{{ search_keyword }}">
+            <input type="submit" value="입력">
+            </form>
+          </div>
+         {% if result %}
+        <div class="card card-outline-secondary my-4">
+       
+          <div class="card-header">
+            검색 결과
+          </div>
+        
+          <div class="card-body">
+            {% for data in result %}
+            <h4> {{ data.item_title}} </h4>
+            <p>{{ data.item_detail}} </p>
+            <br>
+            <p>판매 상태: {{ data.item_status }}</p>
+            <small class="text-muted"> {{data.item_date}} </small>
+            <hr>
+            {% endfor %}
+          </div>
+
+        {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
