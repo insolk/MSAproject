@@ -1,4 +1,4 @@
-import consul
+#import consul
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.http import HttpResponseRedirect
 

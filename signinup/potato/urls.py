@@ -8,4 +8,7 @@ urlpatterns = [
     # path('', include('signin.urls')),
     #localhost/"itemlist의 url"
     path('', include('itemlist.urls')),
+
+    path('userapi/',include('userapi.urls',namespace = 'userapi')),
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 ]

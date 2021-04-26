@@ -154,9 +154,9 @@ DATABASES = {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'mydb', # 데이터베이스 이름
             'USER': 'root', # 접속 사용자 이름
-            'PASSWORD': '', # 접속 비밀번호
+            'PASSWORD': 'mysql', # 접속 비밀번호
             'HOST': 'localhost',
-            'PORT': '13306', # 기본 포트
+            'PORT': '3307', # 기본 포트
         }
 }
 

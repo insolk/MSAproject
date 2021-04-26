@@ -10,7 +10,7 @@ MESSAGE_LEVEL = messages_constants.DEBUG
 # /Users/etlaou/Downloads/Market/potato
 BASE_DIR = Path(__file__).resolve().parent.parent
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 #secret.json 파일에 외부로 노출해서는 안되는 정보를 입력해
 #데이터를 보호한다
@@ -46,9 +46,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mydb',  # 데이터베이스 이름
         'USER': 'root',  # 접속 사용자 이름
-        'PASSWORD': '',  # 접속 비밀번호
+        'PASSWORD': 'mysql',  # 접속 비밀번호
         'HOST': 'localhost',
-        'PORT': '13306',  # 기본 포트
+        'PORT': '3307',  # 기본 포트
     }
 }
 
@@ -64,7 +64,8 @@ INSTALLED_APPS = [
     # 'signin',
     'signup',
     'itemlist',
-    'rest_framework'
+    'rest_framework',
+    'userapi'
 ]
 
 
@@ -91,15 +92,19 @@ MIDDLEWARE = [
 
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': ( 
-        'rest_framework.permissions.IsAuthenticated',
+        #'rest_framework.permissions.IsAuthenticated',
+        # 'rest_framework.permissions.AllowAny',
     ),
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'django_cognito_jwt.JSONWebTokenAuthentication',
-        'rest_framework.permissions.IsAuthenticated',
+        # 'rest_framework.permissions.IsAuthenticated',
+        # 'rest_framework.permissions.AllowAny',
         'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
-        'rest_framework.authentication.SessionAuthentication',
-        'rest_framework.authentication.BasicAuthentication',
+        # 'rest_framework.authentication.SessionAuthentication',
+        # 'rest_framework.authentication.BasicAuthentication',
     ],
+    'DEFAULT_PAGINATION_CLASS':'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE':100,
 }
 ROOT_URLCONF = 'potato.urls'
 

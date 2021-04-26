@@ -41,6 +41,7 @@ class userDV(DetailView):
     model = User
     template_name = "user/index.html"
 
+
     def get_object(self):
 
         if 'TOKEN' in self.request.COOKIES:
