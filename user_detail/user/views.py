@@ -9,7 +9,6 @@ from django.shortcuts import render, redirect
 import jwt
 import json
 import requests
-
 from mysite.settings import JWT_SECRET_KEY
 
 # client = consul.Consul(host='172.19.0.100', port=8500)
@@ -28,14 +27,16 @@ home = 'http://127.0.0.1:8001/'
 signin = 'http://127.0.0.1:8002/signin/'
 item_link = 'http://127.0.0.1:8003/items/'
 user_link = 'http://127.0.0.1:8004/user/'
+user_api = 'http://127.0.0.1:8005/'
 
-link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link};
+link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link, 'user_api': user_api}
 
 
 def logout(request):
     response = HttpResponseRedirect(home)
     response.delete_cookie('TOKEN')
     return response
+
 
 class userDV(DetailView):
     model = User
@@ -46,6 +47,13 @@ class userDV(DetailView):
         if 'TOKEN' in self.request.COOKIES:
             token = self.request.COOKIES['TOKEN']
             user_no = jwt.decode(token, JWT_SECRET_KEY, algorithm='HS256')
+            url = user_api + 'user_detail'
+            # get
+            headers = {'Content-type': 'application/json'}
+            data = {"userno": user_no}
+            r = requests.get(url, headers=headers, data=json.dumps(data))
+            print(r.text)
+
             return self.model.objects.get(pk=user_no['user'])
 
 

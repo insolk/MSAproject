@@ -1,11 +1,17 @@
 import json
 import os
+from datetime import datetime
 
+import elasticsearch
 import consul
+import jwt
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render, redirect
 import logging
 from django.views.generic import ListView
+from elasticsearch import Elasticsearch
+
+from .settings import JWT_SECRET_KEY
 from .models import Item
 from django.views.generic import CreateView
 from .forms import ItemForm
@@ -55,6 +61,21 @@ class ItemLV(ListView):
         return link
 
 
+class ClothesItemLV(ItemLV):
+    def get_queryset(self):
+        return self.model.objects.filter(item_category="clothes")
+
+
+class DeviceItemLV(ItemLV):
+    def get_queryset(self):
+        return self.model.objects.filter(item_category="device")
+
+
+class FurnitureItemLV(ItemLV):
+    def get_queryset(self):
+        return self.model.objects.filter(item_category="furniture")
+
+
 class ItemCreateView(CreateView):
     template_name = 'potatomarket/add_item.html'
     success_url = '/'  # 1
@@ -66,9 +87,28 @@ class ItemCreateView(CreateView):
                                                                                    self.request.POST.get('item_price'),
                                                                                    self.request.POST.get(
                                                                                        'item_detail')))
+
+        token = self.request.COOKIES['TOKEN']
+        user_no = jwt.decode(token, JWT_SECRET_KEY, algorithm='HS256')
+        form.instance.user_no = user_no['user']
+
+        # es = Elasticsearch('[엘라스틱_서버_IP_주소]:9200')
+        #
+        # doc = {"item_category": self.request.POST.get('item_category'),
+        #        "item_date": datetime.now(),
+        #        "item_detail": self.request.POST.get('item_detail'),
+        #        "item_price": self.request.POST.get('item_name'),
+        #        "item_statue": "판매중",
+        #        "item_title": self.request.POST.get('item_title'),
+        #        }
+        #
+        # res = es.index(index="auto_complete3", doc_type="_doc", body=doc)
+        # print(res)
+
         return super(ItemCreateView, self).form_valid(form)
 
     def get_context_data(self, **kwargs):
+
         link = super(ItemCreateView, self).get_context_data(**kwargs)
         link['home'] = home
         link['signin'] = signin

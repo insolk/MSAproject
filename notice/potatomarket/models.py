@@ -17,6 +17,7 @@ class Item(models.Model):
     item_no = models.AutoField(primary_key=True)
     user_no = models.IntegerField()
     item_title = models.CharField(max_length=100)
+    item_category = models.CharField(max_length=20, choices=(("clothes","의류"), ("device","가전/디지털"), ("furniture","가구/인테리어")))
     item_views = models.IntegerField(default=0)
     item_price = models.IntegerField()
     item_detail = models.TextField()
