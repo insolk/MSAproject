@@ -148,7 +148,7 @@ DATABASES = {
         'USER': 'root', # 접속 사용자 이름
         'PASSWORD': '', # 접속 비밀번호
         'HOST': 'localhost',
-        'PORT': '13306', # 기본 포트
+        'PORT': '23306', # 기본 포트
     }
 }
 
