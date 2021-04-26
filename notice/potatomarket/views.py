@@ -113,6 +113,7 @@ class ItemCreateView(CreateView):
         link['home'] = home
         link['signin'] = signin
         link['item_link'] = item_link
+        link['user_link'] = user_link
         if 'TOKEN' in self.request.COOKIES:
             token = self.request.COOKIES['TOKEN']
         else:
