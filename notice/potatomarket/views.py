@@ -4,9 +4,10 @@ from django.shortcuts import render, redirect
 import logging
 from django.views.generic import ListView
 from .models import Item
+from .serializers import ItemSerializer, SoldItemSerializer, Comment
 from django.views.generic import CreateView
 from .forms import ItemForm
-
+from django.db import connection
 logger = logging.getLogger(__name__)
 
 home = 'http://127.0.0.1:8001/'
@@ -41,6 +42,8 @@ class ItemCreateView(CreateView):
                                                                                    self.request.POST.get('item_price'),
                                                                                    self.request.POST.get(
                                                                                        'item_detail')))
+        # cursor = connection.cursor()
+        # strSQL = "INSERT INTO comment()"
         return super(ItemCreateView, self).form_valid(form)
 
     def get_context_data(self, **kwargs):

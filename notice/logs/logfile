@@ -26,3 +26,27 @@
 [23/Apr/2021 16:50:51] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 2323, 'item_detail': asdsad
 [23/Apr/2021 16:59:18] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 111, 'item_detail': 아자아자
 [23/Apr/2021 17:22:33] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 333, 'item_detail': sdasdasd
+[25/Apr/2021 20:31:45] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 2342244, 'item_detail': 가다난안안아낭ㄴ
+[25/Apr/2021 20:33:59] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 242424, 'item_detail': dsgdsgdsg
+[25/Apr/2021 20:44:59] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 42142424, 'item_detail': dtydstdstdst
+
+[25/Apr/2021 20:59:49] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 111, 'item_detail': ㄴㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇ
+[25/Apr/2021 21:07:43] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 2424, 'item_detail': 242424242
+[25/Apr/2021 21:28:38] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 1213414, 'item_detail': please
+[25/Apr/2021 22:08:45] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 68721, 'item_detail': 바보바보
+[25/Apr/2021 22:15:23] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 77979, 'item_detail': stop
+[25/Apr/2021 22:32:04] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:32:30] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:32:31] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:32:31] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:32:32] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:32:32] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 90000, 'item_detail': 제발
+[25/Apr/2021 22:33:01] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 77979, 'item_detail': stop
+[25/Apr/2021 22:36:42] DEBUG [potatomarket.views:40] 'item_name': None, 'item_price': 212142, 'item_detail': ㄴㅁㅇㄴㅁㅇㄴ
+[26/Apr/2021 12:12:18] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 1000, 'item_detail': 사요
+[26/Apr/2021 12:15:51] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 1000, 'item_detail': 사요
+[26/Apr/2021 12:45:10] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 2222, 'item_detail': 두번째
+
+[26/Apr/2021 14:08:20] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 1111, 'item_detail': 333
+[26/Apr/2021 15:04:48] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 444, 'item_detail': 444
+[26/Apr/2021 15:12:51] DEBUG [potatomarket.views:41] 'item_name': None, 'item_price': 5, 'item_detail': 555

@@ -52,7 +52,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'items.apps.ItemsConfig',
+    # 'items',
+    # 'rest_framework',
 ]
+
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [ 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly' ] 
+}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -93,7 +99,7 @@ DATABASES = {
         'NAME': 'searchitem', # 데이터베이스 이름
         'USER': 'root', # 접속 사용자 이름
         'PASSWORD': 'mysql', # 접속 비밀번호
-        'HOST': '3.17.37.50',
+        'HOST': '18.222.72.143',
         'PORT': '3308', # 기본 포트
     }
 }

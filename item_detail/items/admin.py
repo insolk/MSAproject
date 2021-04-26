@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Comment, Item, User
+from .models import SearchItem, SearchComment, SearchSoldItem, SearchUser
 
 # Register your models here.
 class ItemAdmin(admin.ModelAdmin):
@@ -12,6 +12,6 @@ class CommentAdmin(admin.ModelAdmin):
 class UserAdmin(admin.ModelAdmin):
     list_display = ['user_no', ]
 
-admin.site.register(Comment, CommentAdmin)
-admin.site.register(Item, ItemAdmin)
-admin.site.register(User, UserAdmin)
+admin.site.register(SearchComment, CommentAdmin)
+admin.site.register(SearchItem, ItemAdmin)
+admin.site.register(SearchUser, UserAdmin)
