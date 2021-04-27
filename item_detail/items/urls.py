@@ -18,6 +18,7 @@ from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('logout/', views.logout, name='logout'),
     path('items/<int:product_no>/', views.item_detail, name='items_detail'),
     path('items/<int:product_no>/comment', views.comment_insert, name='comment_insert'),
     path('items/<int:product_no>/comment/<int:comment_no>', views.comment_detail, name='comment_detail'),

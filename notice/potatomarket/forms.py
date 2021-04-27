@@ -6,4 +6,4 @@ from potatomarket.models import Item
 class ItemForm(forms.ModelForm):
     class Meta:
         model = Item
-        fields = ['user_no','item_title', 'item_price', 'item_detail']
+        fields = ['item_title', 'item_price', 'item_detail','item_category']

@@ -20,5 +20,9 @@ from .views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', ItemLV.as_view(), name='home'),
-    path('item/new/', ItemCreateView.as_view(), name='item_new')
+    path('item/new/', ItemCreateView.as_view(), name='item_new'),
+    path('logout/', logout, name='logout'),
+    path('item/clothes/', ClothesItemLV.as_view(), name='item_clothes'),
+    path('item/device/', DeviceItemLV.as_view(), name='item_device'),
+    path('item/furniture/', FurnitureItemLV.as_view(), name='item_furniture')
 ]

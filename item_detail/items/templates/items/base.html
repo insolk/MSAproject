@@ -35,12 +35,23 @@
               <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item">
+<li class="nav-item">
+            <a class="nav-link" href="{{link.search}}">검색</a>
+          </li>
+          {% if link.token %}
+                      <li class="nav-item">
             <a class="nav-link" href="{{link.home}}item/new/">매물등록</a>
           </li>
-          <li class="nav-item">
+      <li class="nav-item">
+            <a class="nav-link" href="{{link.user_link}}">마이페이지</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="{% url 'logout' %}">로그아웃</a>
+          </li>
+          {% else %}
+           <li class="nav-item">
             <a class="nav-link" href="{{link.signin}}">로그인</a>
           </li>
+              {% endif %}
         </ul>
       </div>
     </div>

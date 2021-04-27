@@ -15,7 +15,7 @@ class Item(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'item'
+        db_table = 'market_item'
 
 
 class SoldItem(models.Model):
@@ -29,7 +29,7 @@ class SoldItem(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'sold_item'
+        db_table = 'market_sold_item'
 
 
 class User(models.Model):
@@ -46,7 +46,7 @@ class User(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'user'
+        db_table = 'market_user'
 
 
 class Comment(models.Model):
@@ -60,4 +60,4 @@ null=True)  # Field name made lowercase.
 
     class Meta:
         managed = False
-        db_table = 'comment'
+        db_table = 'market_comment'
