@@ -15,25 +15,27 @@ from django.http import HttpResponse, JsonResponse  # HTTP 통신
 from django.contrib import messages
 from rest_framework import status
 
-# client = consul.Consul(host='172.19.0.100', port=8500)
-#
-# home = "http://{}:{}/".format(client.catalog.service("main")[1][0]['Address'],
-#                               client.catalog.service("main")[1][0]['ServicePort'])
-# signin = "http://{}:{}/signin/".format(client.catalog.service("sign")[1][0]['Address'],
-#                                        client.catalog.service("sign")[1][0]['ServicePort'])
-#
-# item_link = "http://{}:{}/items/".format(client.catalog.service("itemDetail")[1][0]['Address'],
-#                                          client.catalog.service("itemDetail")[1][0]['ServicePort'])
-# user_link = "http://{}:{}/user_detail/".format(client.catalog.service("userDetail")[1][0]['Address'],
-#                                                client.catalog.service("userDetail")[1][0]['ServicePort'])
+client = consul.Consul(host='172.19.0.100', port=8500)
 
-home = 'http://127.0.0.1:8001/'
-signin = 'http://127.0.0.1:8002/signin/'
-item_link = 'http://127.0.0.1:8003/items/'
-user_link = 'http://127.0.0.1:8004/user/'
-user_api = 'http://127.0.0.1:8005/'
+home = "http://{}:{}/".format(client.catalog.service("main")[1][0]['Address'],
+                              client.catalog.service("main")[1][0]['ServicePort'])
+signin = "http://{}:{}/signin/".format(client.catalog.service("sign")[1][0]['Address'],
+                                       client.catalog.service("sign")[1][0]['ServicePort'])
 
-link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link,'user_api':user_api};
+item_link = "http://{}:{}/items/".format(client.catalog.service("itemDetail")[1][0]['Address'],
+                                         client.catalog.service("itemDetail")[1][0]['ServicePort'])
+user_link = "http://{}:{}/user_detail/".format(client.catalog.service("userDetail")[1][0]['Address'],
+                                               client.catalog.service("userDetail")[1][0]['ServicePort'])
+user_api = "http://{}:{}/".format(client.catalog.service("userapi")[1][0]['Address'],
+                                  client.catalog.service("userapi")[1][0]['ServicePort'])
+
+# home = 'http://127.0.0.1:8001/'
+# signin = 'http://127.0.0.1:8002/signin/'
+# item_link = 'http://127.0.0.1:8003/items/'
+# user_link = 'http://127.0.0.1:8004/user/'
+user_api = 'http://172.19.0.8:8000/'
+
+link = {'home': home, 'signin': signin, 'item_link': item_link, 'user_link': user_link, 'user_api': user_api};
 
 
 def index(request):
@@ -62,7 +64,7 @@ def signup(request):
             #     user_gender=request.POST['user_gender'],
             #     user_birthdate=request.POST['user_birthdate']
             # ).save()
-            response = requests.post(user_api+'user', data=request.POST)
+            response = requests.post(user_api + 'user', data=request.POST)
 
             print(response.status_code)
             if response.status_code == status.HTTP_400_BAD_REQUEST:
@@ -105,8 +107,7 @@ def login(request):
             #         response['TOKEN'] = token
             #         response.set_cookie('TOKEN', token)
             #         return response
-            response = requests.post(user_api+'login', data=request.POST)
-            print(response.json())
+            response = requests.post(user_api + 'login', data=request.POST)
             if response.status_code == status.HTTP_200_OK:
                 token = response.json()['token']
                 response = redirect(link['home'], {'TOKEN': token})
@@ -115,7 +116,7 @@ def login(request):
                 return response
 
             else:
-                    # return redirect(link['home'], token=token)
+                # return redirect(link['home'], token=token)
                 # 예외처리: Password 오류
                 messages.info(request, '1.Email 또는 Password가 틀렸습니다.')
                 return redirect('./', {'error': 'username or password is incorrect'})

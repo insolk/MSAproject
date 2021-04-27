@@ -34,22 +34,22 @@ COGNITO_AUDIENC = get_secret("COGNITO_AUDIENCE")
 
 #MySQL 연동
 DATABASES = {
-    # 'default' : {
-    #     'ENGINE' : 'django.db.backends.mysql',
-    #     'NAME' : 'mydb',
-    #     'USER' : 'root',
-    #     'PASSWORD' : '',
-    #     'HOST' : '172.19.0.3',
-    #     'PORT' : '3306',
-    # }
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydb',  # 데이터베이스 이름
-        'USER': 'root',  # 접속 사용자 이름
-        'PASSWORD': '',  # 접속 비밀번호
-        'HOST': 'localhost',
-        'PORT': '13306',  # 기본 포트
+    'default' : {
+        'ENGINE' : 'django.db.backends.mysql',
+        'NAME' : 'mydb',
+        'USER' : 'root',
+        'PASSWORD' : '',
+        'HOST' : '172.19.0.3',
+        'PORT' : '3306',
     }
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.mysql',
+    #     'NAME': 'mydb',  # 데이터베이스 이름
+    #     'USER': 'root',  # 접속 사용자 이름
+    #     'PASSWORD': '',  # 접속 비밀번호
+    #     'HOST': 'localhost',
+    #     'PORT': '13306',  # 기본 포트
+    # }
 }
 
 

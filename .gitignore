@@ -2,6 +2,8 @@
 /item_detail/secret.json
 /user_detail/secret.json
 /signinup/secret.json
+/user_api/secret.json
+/search/secret.json
 /.idea
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python,django,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,django,pycharm,visualstudiocode

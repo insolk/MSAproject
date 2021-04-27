@@ -30,3 +30,7 @@
 [26/Apr/2021 00:04:58] DEBUG [potatomarket.views:83] 'item_name': None, 'item_price': 123, 'item_detail': 123
 [26/Apr/2021 00:06:45] DEBUG [potatomarket.views:83] 'item_name': None, 'item_price': 123, 'item_detail': 222
 [26/Apr/2021 00:24:45] DEBUG [potatomarket.views:83] 'item_name': None, 'item_price': 123123, 'item_detail': asdasd
+[26/Apr/2021 18:21:02] DEBUG [potatomarket.views:86] 'item_name': None, 'item_price': 30000, 'item_detail': 갤럭시
+[26/Apr/2021 18:30:38] DEBUG [potatomarket.views:86] 'item_name': None, 'item_price': 3000, 'item_detail': 청바지입니당
+[26/Apr/2021 18:30:59] DEBUG [potatomarket.views:86] 'item_name': None, 'item_price': 50000, 'item_detail': 선반선반
+[27/Apr/2021 01:14:31] DEBUG [potatomarket.views:87] 'item_name': None, 'item_price': 200000, 'item_detail': 아이폰입니당

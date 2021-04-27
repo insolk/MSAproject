@@ -42,7 +42,7 @@ JWT_SECRET_KEY = get_secret("JWT_SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -91,18 +91,22 @@ WSGI_APPLICATION = 'userapi.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
-    # 'default': {
-    #     'ENGINE': 'django.db.backends.sqlite3',
-    #     'NAME': BASE_DIR / 'db.sqlite3',
-    # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydb',  # 데이터베이스 이름
-        'USER': 'root',  # 접속 사용자 이름
-        'PASSWORD': '',  # 접속 비밀번호
-        'HOST': 'localhost',
-        'PORT': '13306',  # 기본 포트
+        'NAME': 'mydb',
+        'USER': 'root',
+        'HOST': '172.19.0.3',
+        'PORT': '3306',
+
     }
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.mysql',
+    #     'NAME': 'mydb',  # 데이터베이스 이름
+    #     'USER': 'root',  # 접속 사용자 이름
+    #     'PASSWORD': '',  # 접속 비밀번호
+    #     'HOST': 'localhost',
+    #     'PORT': '13306',  # 기본 포트
+    # }
 }
 
 # Password validation

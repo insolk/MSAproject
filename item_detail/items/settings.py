@@ -98,11 +98,11 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydb',  # 데이터베이스 이름
+        'NAME': 'searchitem',  # 데이터베이스 이름
         'USER': 'root',  # 접속 사용자 이름
-        'PASSWORD': '',  # 접속 비밀번호
-        'HOST': 'localhost',
-        'PORT': '13306',  # 기본 포트
+        'PASSWORD': 'mysql',  # 접속 비밀번호
+        'HOST': '18.222.72.143',
+        'PORT': '3308',  # 기본 포트
     }
 }
 
